@@ -1,0 +1,170 @@
+{
+  "project_info": {
+    "project_number": "1025602414763",
+    "project_id": "ff-enterprise-demos",
+    "storage_bucket": "ff-enterprise-demos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025602414763:android:a43bd8d4608bbbc3656fee",
+        "android_client_info": {
+          "package_name": "com.flutterflow.amigo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025602414763-i8hnqntlaob0hqnt2uqnc1rkcfbrq4k8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_5eY1eFqHQq_XBhyF74DnGUqYEu8oBp4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025602414763-i8hnqntlaob0hqnt2uqnc1rkcfbrq4k8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1025602414763-73qpkjmo8th33m5mv54fqe275378opol.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.cherryclone"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025602414763:android:477277887d593af0656fee",
+        "android_client_info": {
+          "package_name": "com.flutterflow.indigodemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025602414763-6ke7ujlbknnmg7julcvod81muc1914ev.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterflow.indigodemo",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "1025602414763-i8hnqntlaob0hqnt2uqnc1rkcfbrq4k8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_5eY1eFqHQq_XBhyF74DnGUqYEu8oBp4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025602414763-i8hnqntlaob0hqnt2uqnc1rkcfbrq4k8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1025602414763-73qpkjmo8th33m5mv54fqe275378opol.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.cherryclone"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025602414763:android:1fb780360e910242656fee",
+        "android_client_info": {
+          "package_name": "com.mycompany.cherryclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025602414763-lbd2f63achsdbuhhnjmkcusqq7d5uhgm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.cherryclone",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "1025602414763-i8hnqntlaob0hqnt2uqnc1rkcfbrq4k8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_5eY1eFqHQq_XBhyF74DnGUqYEu8oBp4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025602414763-i8hnqntlaob0hqnt2uqnc1rkcfbrq4k8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1025602414763-73qpkjmo8th33m5mv54fqe275378opol.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.cherryclone"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025602414763:android:8a2bd8b278d9c0f5656fee",
+        "android_client_info": {
+          "package_name": "com.mycompany.financialdashboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025602414763-i8hnqntlaob0hqnt2uqnc1rkcfbrq4k8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_5eY1eFqHQq_XBhyF74DnGUqYEu8oBp4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025602414763-i8hnqntlaob0hqnt2uqnc1rkcfbrq4k8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1025602414763-73qpkjmo8th33m5mv54fqe275378opol.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.cherryclone"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
